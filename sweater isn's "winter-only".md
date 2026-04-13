@@ -4,6 +4,8 @@
 [![Market](https://img.shields.io/badge/Market-Luxury_B2B-gold.svg)](#)
 [![QA](https://img.shields.io/badge/Quality-AQL_1.0-brightgreen.svg)](#)
 
+Welcome to the digital knowledge hub of **[JM Sweater Manufacturer](https://jmsweater.com)**. We are a premier, technology-driven textile facility specializing in high-precision, fine-gauge knitwear.
+
 ## 📌 Executive Summary
 Most knitwear brands are trapped in a seasonal "Red Sea" of basic 7GG/12GG merino crewnecks. This technical documentation outlines how to leverage **18-Gauge (18GG)** high-precision engineering to break seasonality barriers and unlock premium profit margins.
 
