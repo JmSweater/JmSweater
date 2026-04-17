@@ -4,8 +4,9 @@
 ### **Keywords: Textile Engineering | 18GG Architecture | Moisture Management | GRS Compliance**
 
 ---
-![Summer Knitwear Why Cotton Isn’t Your Go-To]()
-## 🛑 The "100% Cotton" Performance Bug: A Reality Check
+<div align="center"><img src="https://github.com/JmSweater/jmsweater.github.io/blob/main/Summer%20Knitwear%20Why%20Cotton%20Isn%E2%80%99t%20Your%20Go-To.webp?raw=true" width="500">
+</div>
+ 🛑 The "100% Cotton" Performance Bug: A Reality Check
 
 In the fashion supply chain, **100% Cotton** is often treated as the "Stable Release" for summer. On paper, it is natural, soft, and breathable. However, from a textile engineering perspective, relying solely on pure cotton for high-humidity environments is a **critical strategic error**.
 
@@ -17,7 +18,7 @@ Cotton is **hydrophilic** (water-loving). It can absorb up to 20x its weight in 
 * **The Failure:** This swelling physically **blocks air channels** within the knit. 
 
 Instead of allowing sweat to evaporate, the fabric creates a "mini-sauna" against the skin. In 85°F humidity, the garment essentially becomes a **"wet paper bag"**—heavy, clingy, and failing its cooling objective.
-
+![Microscopic View How Sweat Clogs Cotton’s Air Channels](https://jmsweater.com/uploads/2026416/20260416150436363636.webp)
 
 
 ---
@@ -66,8 +67,6 @@ For brands seeking deeper technical specifications on summer blends or GRS data 
 
 * **Official Repository:** [https://jmsweater.com](https://jmsweater.com)
 * **Technical Inquiries:** [lily@jmsweater.com](mailto:lily@jmsweater.com)
-* **Download:** Request the **"2026 Summer Knitwear Technical White Paper"** for full 18GG specs and wash-test datasets.
-
 ---
 **Build your summer collection like high-performance software: Cool, dry, and ready for any environment.**
 
