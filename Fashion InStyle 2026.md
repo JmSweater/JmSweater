@@ -1,6 +1,7 @@
-# Engineering the Future: JM Sweater @ Fashion InStyle 2026
-
-Official documentation for **JM Sweater’s** participation in **Fashion InStyle 2026**. We define knitwear not through marketing narratives, but through technical precision and engineering logic.
+# Engineering the Future: JM Sweater at Fashion InStyle 2026
+<div align="center"><img src="https://github.com/JmSweater/jmsweater.github.io/blob/JmSweater-patch-1/0.jpg?raw=true" width="500">
+</div>
+Official documentation for JM Sweater’s participation in Fashion InStyle 2026. We define knitwear not through marketing narratives, but through technical precision and engineering logic.
 
 ---
 
@@ -40,14 +41,13 @@ We invite sourcing leads, brand founders, and technical architects to review our
 * **Event:** Fashion InStyle 2026
 * **Venue:** Hong Kong Convention and Exhibition Centre (HKCEC)
 * **Dates:** April 27 – 30, 2026
-* **Booth:** `[Insert_Booth_Number]`
 
 ---
 
 ## 🔗 Technical Portal & Inquiry
 
-* **Official Portal:** [Insert Your Website URL]
-* **Inquiry:** `[Insert Your Email]`
+* **Official Portal:** [https://jmsweater.com]
+* **Inquiry:** `[lily@jmsweater.com]`
 * **Philosophy:** Transparent, efficient partnerships. No fluff. Just real solutions for your brand's growth.
 
 ---
