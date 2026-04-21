@@ -5,6 +5,7 @@
 > **Status:** Alibaba Top 1 Ranking All-Category Manufacturer
 
 ---
+<div align="center"><img src="https://github.com/JmSweater/jmsweater.github.io/blob/JmSweater-patch-1/fRYZw1Bgp.jpeg?raw=true" width=500></div>
 
 ## 🔍 Overview: Why "Hand-Linking" Defines Brand Premium
 
