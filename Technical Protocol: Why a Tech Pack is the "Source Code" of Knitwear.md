@@ -5,6 +5,7 @@
 > **Mission:** Eliminating production variables through technical precision.
 
 ---
+<div align="center"><img src="https://github.com/JmSweater/jmsweater.github.io/blob/JmSweater-patch-1/fRdtOtkXs.jpeg?raw=true" width=500></div>
 
 ## 🚩 The "Single Photo" Fallacy
 
