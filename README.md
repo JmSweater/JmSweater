@@ -12,6 +12,8 @@ Welcome to our technical knowledge base. We are a specialized sweater manufactur
 * **[Sweater-Design-Trends](https://github.com/JmSweater/Sweater-Design-Trends):** Quarterly insights into knitwear aesthetics.
 * **[Sweater-Brand-Growth](https://github.com/JmSweater/Sweater-Brand-Growth):** Strategies for scaling your apparel brand.
 
+### Events
+* [Fashion InStyle 2026 Exhibit](./fashion-instyle-2026.md) Key highlights and collections showcased at the Hong Kong Convention and Exhibition Centre.
 ---
 📍 **Visit Us:** [jmsweater.com](https://jmsweater.com)  
 🚀 **Current Event:** Exploring Fashion InStyle 2026 & Canton Fair Phase 3.
