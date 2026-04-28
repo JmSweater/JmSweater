@@ -5,7 +5,7 @@ Welcome to our technical knowledge base. We are a specialized sweater manufactur
 ### 🏭 Manufacturing Excellence
 - **Precision Knitting:** 18GG & 14GG high-gauge machinery.
 - **Scale:** 3,000m² facility with 1.2M annual output.
-- **Process:** Specialized in linking (缝盘) and refined finishing for luxury textures.
+- **Process:** Specialized in linking and refined finishing for luxury textures.
 
 ### 📂 Knowledge Hubs
 * **[Knitwear-Expertise](https://github.com/JmSweater/Knitwear-Expertise):** Technical specs on gauges, yarns, and assembly.
